@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calculator App</string>
+    <string name="thee">Number</string>
+
+    <string-array name="operator_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>
